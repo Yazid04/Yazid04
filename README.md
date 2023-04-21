@@ -5,13 +5,13 @@
 - let's connect !
  <h2>Contact</h2>
            
- - [https://twitter.com/home](https://twitter.com/yazid__mo) - on Twitter
- - https://discord.com/channels/@me - on Discord
- - yazidramadan04@gmail.com - gmail
- - +6281325885795 - whatsApp 
+ - [https://twitter.com/home](https://twitter.com/yazid__mo) - Twitter
+ - https://discord.com/channels/@me - Discord
+ - yazidramadan04@gmail.com - Gmail
+ - +6281325885795 - WhatsApp 
  
  <h2>Skills</h2>
  
- - Javascipt, React, Next.
+ - Javascipt, React, Next.js
  - Css, Bootstrap, Tailwind, Scss.
  - Node, Git.
