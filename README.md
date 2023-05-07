@@ -4,9 +4,9 @@
 - my goal is to work in a place where I can deliver business value while also improve my skills through the way, 
 - let's connect !
  <h2>Contact</h2>
- ![Yazid Mo](https://user-images.githubusercontent.com/66242307/236690847-7be09936-b8a5-4ca8-b33d-530a8ba56484.png)
            
- - [https://twitter.com/home](https://twitter.com/yazid__mo) - Twitter
+ - [https://twitter.com/home](https![Rectangle 1](https://user-images.githubusercontent.com/66242307/236691024-f58be342-9bef-4ca6-a30b-b9003f46ab5b.png)
+://twitter.com/yazid__mo) - Twitter
  - https://discord.com/channels/@me - Discord
  - yazidramadan04@gmail.com - Gmail
  - +6281325885795 - WhatsApp 
