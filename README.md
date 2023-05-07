@@ -4,7 +4,7 @@
 - my goal is to work in a place where I can deliver business value while also improve my skills through the way, 
 - let's connect !
  <h2>Contact</h2>
- (https://user-images.githubusercontent.com/66242307/236690847-7be09936-b8a5-4ca8-b33d-530a8ba56484.jpg)
+ ![Yazid Mo](https://user-images.githubusercontent.com/66242307/236690847-7be09936-b8a5-4ca8-b33d-530a8ba56484.jpg)
            
  - [https://twitter.com/home](https://twitter.com/yazid__mo) - Twitter
  - https://discord.com/channels/@me - Discord
