@@ -5,7 +5,7 @@
 - let's connect !
  <h2>Contact</h2>
            
- - https://twitter.com/Yazid_Mo_ - Twitter
+ - (https://twitter.com/Yazid_Mo_) - Twitter
  - yazidramadan04@gmail.com - Gmail
  - +6281325885795 - WhatsApp 
  - https://discord.com/users/Yazid - Discord
