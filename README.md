@@ -5,11 +5,11 @@
 - let's connect !
  <h2>Contact</h2>
            
- - [https://twitter.com/home]
-://twitter.com/yazid__mo) - Twitter
- - https://discord.com/channels/@me - Discord
+ - twitter.com/@Yazid_Mo_ Twitter
  - yazidramadan04@gmail.com - Gmail
  - +6281325885795 - WhatsApp 
+ - https://discord.com/users/Yazid - Discord
+ 
  
  <h2>Skills</h2>
  
