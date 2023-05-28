@@ -6,9 +6,9 @@
  <h2>Contact</h2>
            
  - (https://twitter.com/Yazid__Mo) - Twitter
- - yazidramadan04@gmail.com - Gmail
+ - (yazidramadan04@gmail.com) - Gmail
  - +6281325885795 - WhatsApp 
- - https://discord.com/users/Yazid - Discord
+ - (https://discord.com/users/Yazid) - Discord
  
  
  <h2>Skills</h2>
