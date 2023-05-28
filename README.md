@@ -5,7 +5,7 @@
 - let's connect !
  <h2>Contact</h2>
            
- - [https://twitter.com/home](https![Rectangle 1](https://user-images.githubusercontent.com/66242307/236691024-f58be342-9bef-4ca6-a30b-b9003f46ab5b.png)
+ - [https://twitter.com/home]
 ://twitter.com/yazid__mo) - Twitter
  - https://discord.com/channels/@me - Discord
  - yazidramadan04@gmail.com - Gmail
