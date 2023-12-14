@@ -1,6 +1,6 @@
 &nbsp; <h1> ![Yazid Mo](https://user-images.githubusercontent.com/66242307/208242631-4207b764-eb4e-4202-a4ee-5ef95d75b9df.png)</h1>
 
-Welcome to my portfolio! In this repository, you can find my skills, projects, and know me personally.
+Welcome to my profile! In this repository, you can find my skills, projects, and know me personally.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -46,5 +46,5 @@ Feel free to reach out to discuss collaboration, job opportunities, or just to s
 
 ---
 
-Thank you for visiting my portfolio. I look forward to connecting with you!  
+Thank you for visiting my profile. I look forward to connecting with you!  
 ***Made with 💛 by [@Yazid04](https://github.com/Yazid04)***
