@@ -36,7 +36,7 @@ HealthfulPlate is a vibrant, easy-to-use React website that combines nutrition a
 
 
 ## Contact
-- Resume: [My Resume](https://docs.google.com/document/d/1KVuzJczHAqNqMi5cqZxv4xhNjyCnD7Szq38OrE8U-mM/edit?usp=drivesdk)
+- Resume: [Resume](Resume.pdf)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yazid-mohammed-9a45a1219/)
 - Email: yazidramadan04@gmail.com
 - X (A.K.A Twitter): [My X account](https://twitter.com/Yazid__Mo)
